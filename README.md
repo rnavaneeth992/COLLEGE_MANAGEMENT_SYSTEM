@@ -8,8 +8,8 @@
 
 + Web App can be started through the ```main.html``` file.
 
-+In this project Library management System also has been integrated in the project. 
++ In this project Library management System also has been integrated in the project. 
 
-+Created a map navigation using area tag.
++ Created a map navigation using area tag.
 
-+Created a PDF generation using PHP for students(users) to download marks and fees receipt.
++ Created a PDF generation using PHP for students(users) to download marks and fees receipt.
