@@ -1,5 +1,5 @@
 # COLLEGE_MANAGEMENT_SYSTEM
- A Prototype Website to replicate the College management System using HTML CSS JS for Front, PHP for backend and MySQL for Database 
+ Designed a Web Application Using HTML, CSS (Bootstrap) for Front End with PHP for Back end and MySQL for Database. 
 
 
 + Requires use of XAMPP Apache web server and MySQL 8.0 server 
